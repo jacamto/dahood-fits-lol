@@ -1,0 +1,6 @@
+game.Players.LocalPlayer.Character.LeftLowerLeg.MeshId = "http://roblox.com/asset/?id=9598310137"
+game.Players.LocalPlayer.Character.LeftLowerLeg.TextureID = "http://roblox.com/asset/?id=902842271"
+game.Players.LocalPlayer.Character.LeftUpperLeg.MeshId = "http://www.roblox.com/asset/?id=9598310131"
+game.Players.LocalPlayer.Character.LeftUpperLeg.TextureID = "http://roblox.com/asset/?id=902842271"
+game.Players.LocalPlayer.Character.LeftFoot.MeshId = "9598310118"
+game.Players.LocalPlayer.Character.LeftFoot.Transparency = "1"

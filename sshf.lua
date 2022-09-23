@@ -1,1 +1,1 @@
-game.Players.LocalPlayer.Character.Head.face.Texture = "rbxassetid://494290547"
+game.Players.e8qt.Character.Head.face.Texture = "rbxassetid://494290547"

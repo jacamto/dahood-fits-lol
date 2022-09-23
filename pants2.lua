@@ -1,1 +1,1 @@
-game.Players.LocalPlayer.Character.Pants.PantsTemplate = "rbxassetid://9611233017"
+game.Players.e8qt.Character.Pants.PantsTemplate = "rbxassetid://9611233017"

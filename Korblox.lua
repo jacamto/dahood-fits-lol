@@ -1,6 +1,0 @@
-game.Players.istolewillshoodie.Character.LeftLowerLeg.MeshId = "http://roblox.com/asset/?id=9598310137"
-game.Players.istolewillshoodie.Character.LeftLowerLeg.TextureID = "http://roblox.com/asset/?id=902842271"
-game.Players.istolewillshoodie.Character.LeftUpperLeg.MeshId = "http://www.roblox.com/asset/?id=9598310131"
-game.Players.istolewillshoodie.Character.LeftUpperLeg.TextureID = "http://roblox.com/asset/?id=902842271"
-game.Players.istolewillshoodie.Character.LeftFoot.MeshId = "9598310118"
-game.Players.istolewillshoodie.Character.LeftFoot.Transparency = "1"
